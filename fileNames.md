@@ -14,7 +14,7 @@ Other extension should not be used.
 *Incorrect:*
 
     installation.db2 << Invalid extension
-    installation.sqlpl
+    installation.sqlpl << Invalid extension
     installation << No extension
 
 ## 1.2. File name
