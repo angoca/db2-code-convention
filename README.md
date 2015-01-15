@@ -11,6 +11,7 @@ This document allows to have a standard code accross different projects, and hel
 The following sections are part of the document:
 
  * [File names](fileNames.md)
+ * [File format](fileFormat.md)
  * [Identation](identation.md)
  * [Control structures](controlStrctures.md)
  * [Routine calls](routineCalls.md)
@@ -19,5 +20,4 @@ The following sections are part of the document:
  * [Header comment block](headerCommentBlock.md)
  * [Versioning](versioning.md)
  * [Naming convention](namingConvention.md)
- * [File format](fileFormat.md)
  * [Examples](examples.md)
