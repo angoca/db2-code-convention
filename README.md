@@ -12,6 +12,7 @@ The following sections are part of the document:
 
  * [File names](fileNames.md)
  * [File format](fileFormat.md)
+ * [File structure](fileStructure.md)
  * [Identation](identation.md)
  * [Control structures](controlStrctures.md)
  * [Routine calls](routineCalls.md)
