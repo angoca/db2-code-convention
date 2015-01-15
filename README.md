@@ -10,14 +10,14 @@ This document allows to have a standard code accross different projects, and hel
 
 The following sections are part of the document:
 
- * [File names](fileNames.md)
- * [File format](fileFormat.md)
- * [File structure](fileStructure.md)
- * [Identation](identation.md)
+ * [File names](https://github.com/angoca/db2-code-convention/wiki/1.-File-Names)
+ * [File format](https://github.com/angoca/db2-code-convention/wiki/2.-File-Format)
+ * [File structure](https://github.com/angoca/db2-code-convention/wiki/3.-File-Structure)
+ * [Identation](https://github.com/angoca/db2-code-convention/wiki/4.-Indentation)
  * [Control structures](controlStrctures.md)
  * [Routine calls](routineCalls.md)
  * [Routine definitions](routineDefinitions.md)
- * [Comments](comments.md)
+ * [Comments](https://github.com/angoca/db2-code-convention/wiki/8.-Comments)
  * [Header comment block](headerCommentBlock.md)
  * [Versioning](versioning.md)
  * [Naming convention](namingConvention.md)
