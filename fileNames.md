@@ -1,22 +1,23 @@
-1. File Names
+# 1. File Names
 
-1.1. File suffixes
+## 1.1. File suffixes
 
 The files that contain SQL only or SQL PL should have the `.sql` extension.
 This extension is used for different RDBMs and it is an standard.
 
 Other extension should not be used.
 
-Correct:
+*Correct:*
 
     installation.sql 
 
-Incorrect:
+*Incorrect:*
 
-    installation.db2
-    installation
+    installation.db2 << Invalid extension
+    installation.sqlpl
+    installation << No extension
 
-1.2. File name
+## 1.2. File name
 
 These are the rules for the names of the files:
 
@@ -27,13 +28,13 @@ These are the rules for the names of the files:
 
 Examples:
 
-Correct:
+*Correct:*
 
     Installation.sql
     Patch-4123.sql
     01-FirstStep.sql
 
-Incorrect
+*Incorrect*
 
     First step.sql << Blankspace as word separator.
     Instalación.sql << Special character.
